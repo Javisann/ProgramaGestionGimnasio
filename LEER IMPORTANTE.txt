@@ -1,0 +1,6 @@
+No he conseguido fusionar con la base de datos la parte de Suscripciones Familiares, me daba bastantes problemas y he decidido esa parte no juntarla. En el panel de Suscripciones Familiares funciona el mouseClicked y el metodo para añadir, pero como he dicho antes, estos no se guardan en la base de datos.
+En todos los demas paneles me funciona todo y esta conectado con la base de datos.
+Hay mouseClicked en la mayoria de paneles para que no se tenga que poner todos los datos a mano a la hora de borrar o modificar.
+El programa esta diseñado para el uso de un empleado.
+Al ejecutarse el programa se abrira un menu principal en el cual tendremos un MenuBar, al abrir este menu veremos diversas opciones disponibles a abrir. Tanto para la gestion de suscripciones como la gestion de empleados y actividades del gimnasio. Ademas de esto tendremos un apartado en el cual podremos buscar todo lo relacionado con lo anterior, simplemente seleccionamos el radioButton que queramos y buscamos lo que nos interese.
+Tambien he implementado un MenuItem para salir del programa y cerrarlo.
